@@ -11,6 +11,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "mongoose": "^6.1.9",
+    "mongose": "^0.0.2-security"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alotfey/pizza-hunt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alotfey/pizza-hunt/issues"
+  },
+  "homepage": "https://github.com/alotfey/pizza-hunt#readme"
 }
